@@ -29,7 +29,7 @@
 - <a href="#key-insights">📌 Key Insights</a>
 - <a href="#learning-outcomes">🚀 Learning Outcomes</a>
 - <a href="#repository-structure">📁 Repository Structure</a>
-- <a href="#certificate-usage">🎓 Certificate & Career Value</a>
+- <a href="#certificate-usage">🎓 Certification & Career Value</a>
 - <a href="#conclusion">🔚 Conclusion</a>
 - <a href="#connect">📬 Connect With Me</a>
 
@@ -206,7 +206,7 @@ It offered an ideal balance between learning concepts and applying them practica
 
 ---
 
-## <span id="certificate-usage">🎓 Certificate & Career Value</span>
+## <span id="certificate-usage">🎓 Certification & Career Value</span>
 
 - Added as an extracurricular activity on LinkedIn  
 - Strengthens resume credibility  
